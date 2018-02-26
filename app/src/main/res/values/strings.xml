@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Device006</string>
+    <string name="server_username">admin</string>
+    <string name="server_password">19871023</string>
+    <string name="server_path">http://www.jy-ae.com/Device006/</string>
+    <string name="menu_button">菜单按钮</string>
+</resources>
